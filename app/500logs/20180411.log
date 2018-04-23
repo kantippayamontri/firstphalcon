@@ -1,0 +1,4 @@
+[Wed, 11 Apr 18 15:18:56 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [event].* FROM [event] WHERE id= LIMIT :APL0: (52)
+
+[Wed, 11 Apr 18 15:18:58 +0700][ERROR] [0]: Syntax error, unexpected token LIMIT, near to ' :APL0:', when parsing: SELECT [event].* FROM [event] WHERE id= LIMIT :APL0: (52)
+
